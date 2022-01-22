@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+  color: #ff6347;
+}
+
+.progress-bar {
+  padding-top: 50px;
+  max-width: 340px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
+
+button {
+  background-color: tomato;
+  color: white;
+  border-color: black;
+  border: 30px;
+  margin: 15px;
+  display: inline block;
+  width: 70px;
+  height: auto;
+}
+
+button:hover {
+  color: black;
+}
