@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Website
+
+https://music-doro.herokuapp.com/
+
 ## Introduction
 
 This project allows you do have a pomodoro timer that can be played and paused, and it has an option of restarting a timer. It also has an option of listening to it relaxing song while working or studying.
